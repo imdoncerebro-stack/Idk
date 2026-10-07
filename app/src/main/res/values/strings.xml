@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AuraMotion</string>
+    <string name="accessibility_service_description">AuraMotion enables hands-free device navigation for users with mobility impairments by translating hand movements and gestures into synthetic taps, swipes, and system navigation.</string>
+    <string name="overlay_notification_title">AuraMotion Hands-Free Tracking</string>
+    <string name="overlay_notification_desc">Gesture cursor and accessibility navigation active.</string>
+    <string name="channel_name">AuraMotion Service</string>
+    <string name="channel_description">Active tracking and accessibility cursor notifications.</string>
+</resources>

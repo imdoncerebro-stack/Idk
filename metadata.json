@@ -1,0 +1,6 @@
+{
+  "name": "AuraMotion",
+  "description": "Hands-free gesture mouse and phone navigation for users with mobility impairments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
